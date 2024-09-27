@@ -1,6 +1,5 @@
 # TextTorrent
-By Samuel Sjøen
-A simple torrenting application.
+A simple torrenting application by Samuel Sjøen.
 
 ## Tutorial
 To use the application, the tracker needs to be run first. The tracker keeps track of the files each peer has.
