@@ -1,4 +1,5 @@
 # TextTorrent
+By Samuel Sjøen
 A simple torrenting application.
 
 ## Tutorial
